@@ -18,7 +18,7 @@ i <strong>Love</strong> building things and getting my hands dirty, here's some 
    ![Shrishty's Stats](https://github-readme-stats.vercel.app/api?username=Shrishx&&theme=chartreuse-dark&show_icons=true)
   <br>
   
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shrishx&langs_count=8&layout=compact&title_color=F10086&icon_color=F10086&text_color=e0e0e0&bg_color=711A75)](https://github.com/anuraghazra/github-readme-stats)
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shrishx&langs_count=8&layout=compact&title_color=8E05C2&icon_color=F10086&text_color=e0e0e0&bg_color=191A19)](https://github.com/anuraghazra/github-readme-stats)
   
   
   <br>
