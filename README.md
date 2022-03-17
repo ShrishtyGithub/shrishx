@@ -1,16 +1,27 @@
-### Hi there 👋
+### Suup ✨ I'm Shrishty (≧∇≦)ﾉ
+<h3>Fullstack Dev || CSE-Artificial Intelligence and Machine Learning (Sophomore)</h3>
 
-<!--
-**Shrishx/shrishx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+i <strong>Love</strong> building things and getting my hands dirty, here's some things i've built and contributed to:-
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- <ul>
+         <li><a href="https://github.com/MonarchGitHub/Parvah"><strong>Parvah (Ambulance Tracker)</strong></a> </li>
+        ‣ A real-time Ambulance Tracking android application.
+           <br>
+        ‣ Built with React Native, Google Maps API and Amazon Amplify.
+        <li><a href="https://github.com/MonarchGitHub/HeadsTails"><strong>Head&Tails Counter</strong></a> </li>
+        ‣ A GUI based heads tails counter written in C++ using QT UI/UX Library.
+        <li><a href="https://github.com/MonarchGitHub/CurrencyConverter"><strong>CurrencyConverter</strong></a> </li>
+        ‣ A currency converting application written in C++ using QT UI/UX library.
+    </ul> -->
+    
+   ![Shrishty's Stats](https://github-readme-stats.vercel.app/api?username=Shrishx&&theme=chartreuse-dark&show_icons=true)
+  <br>
+  
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shrishx&langs_count=8&layout=compact&title_color=0bfc03&icon_color=0bfc03&text_color=e0e0e0&bg_color=000000)](https://github.com/anuraghazra/github-readme-stats)
+  
+  
+  <br>
+
+        
+[![trophy](https://github-profile-trophy.vercel.app/?username=Shrishx&theme=darkhub&row=1&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
